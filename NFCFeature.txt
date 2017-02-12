@@ -1,1 +1,3 @@
 testing this file in git mobileporj 
+/* added by test */
+Added samsung pay 
